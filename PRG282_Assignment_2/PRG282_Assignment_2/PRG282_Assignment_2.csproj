@@ -138,5 +138,8 @@
   <ItemGroup>
     <None Include="Resources\Username.png" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="studentInfo.sql" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
